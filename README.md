@@ -10,5 +10,5 @@
 
 > testcafe chrome Test/suites
 
-To successfully run these commands you need to have testcfe already installed.
+To successfully run these commands you need to have testcafe already installed.
 You can follow a guide [here](https://github.com/DevExpress/testcafe#getting-started).
