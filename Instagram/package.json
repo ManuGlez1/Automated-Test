@@ -1,0 +1,11 @@
+{
+  "name": "Instagram Testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome suites/"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
