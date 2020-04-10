@@ -9,3 +9,6 @@
 > testcafe chrome Instagram/suites
 
 > testcafe chrome Test/suites
+
+To successfully run these commands you need to have testcfe already installed.
+You can follow a guide [here](https://github.com/DevExpress/testcafe#getting-started) .
